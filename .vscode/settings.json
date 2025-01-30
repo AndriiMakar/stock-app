@@ -1,0 +1,16 @@
+{
+  "terminal.integrated.fontSize": 12,
+  "workbench.colorCustomizations": {
+    "tab.unfocusedActiveBorder": "#fff0",
+    "titleBar.inactiveForeground": "#ffffff",
+    "titleBar.activeForeground": "#ffffff",
+    "statusBar.foreground": "#ffffff",
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/dist": true
+  },
+  "files.associations": {
+    ".env*": "properties"
+  }
+}
